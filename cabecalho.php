@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width">
     <title>
         <?php
-            print $cabecalho_title; 
+        print $cabecalho_title;
         ?>
     </title>
 
@@ -36,5 +36,3 @@
             </ul>
         </nav>
     </header>
-
-

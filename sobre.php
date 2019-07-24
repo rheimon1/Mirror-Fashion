@@ -3,9 +3,10 @@
     $cabecalho_css	= '<link rel="stylesheet" href="css/sobre.css">';	
     include("cabecalho.php");     
 ?>
-    <div class="container">
-        <section id="sobre">
-            <div>
+
+    <div class="sobre-back">
+        <div class="container">
+            <div class="sobre">
                 <h1>A Mirror Fashion</h1>
                 <p>
                     A <strong>Mirror Fashion</strong> é a maior empresa de comércio eletrônico no segmento de moda em
@@ -84,8 +85,8 @@
                     allowfullscreen></iframe>-->
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1910.500943717077!2d-43.85619827287212!3d-16.726757645045602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xab54b24b8f1f81%3A0xf18eed76fcb0221!2sR.+Nossa+Sra.+Aparecida%2C+98+-+Vila+Alvarenga%2C+Montes+Claros+-+MG%2C+39400-375!5e0!3m2!1spt-BR!2sbr!4v1563042717826!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </center>
-            </div>
-        </section>
+            </div>                
+        </div>
     </div>
     <?php include("rodape.php") ?>
 </body>

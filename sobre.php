@@ -29,9 +29,7 @@
                 <p>Compre suas roupas e acessórios na <strong>Mirror Fashion.</strong> Acesse <a href="index.html">nossa
                         loja</a> ou
                     entre em <a href="y">contato</a> se tiver dúvidas. Conheça também nossa <a href="y">história</a> e
-                    nossos <a href="y"></a>diferenciais</p.>
-            </div>
-            <div>
+                    nossos <a href="y"></a>diferenciais</p>
                 <h2 id="historia">História</h2>
                 <figure id="familia-pelho">
                     <img src="img/familia-pelho.jpg" alt="Foto	da	família	Pelho">
@@ -65,10 +63,8 @@
                     homenagens e condecorações. Todos os presidentes do Brasil já visitaram as instalações da Mirror
                     Fashion, além de presidentes da União Europeia, Ásia e o secretário-geral da ONU.
                 </p>
-            </div>
-            <div>
-                <h2 id="diferenciais">Diferenciais</h2>
-                <ul>
+                <h2>Diferenciais</h2>
+                <ul id="diferenciais">
                     <li>Menor preço do varejo garantido</li>
                     <li>Se você achar uma loja mais barata, leva o produto de graça</li>
                     <li>Pague em reais, doláres, euros ou bitcoins</li>
